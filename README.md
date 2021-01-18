@@ -1,6 +1,7 @@
-1. 登录获取token
-2. 验证社交网络人物账号
-3. 新增任务 task_id
+1. [登录获取token](https://github.com/wtgg/ghxc_doc/blob/main/1.登录获取token.md)
+2. [验证社交网络人物账号](https://github.com/wtgg/ghxc_doc/blob/main/2.验证社交网络人物账号.md)
+3. [新增任务 GET](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务 GET.md)
+3. [新增任务 POST](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务 POST.md)
 4. 修改任务 task_id
 5. 新增执行 je_id
 6. 切换任务状态：正在运行/暂停
