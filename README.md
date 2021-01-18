@@ -2,11 +2,11 @@
 2. [验证社交网络人物账号](https://github.com/wtgg/ghxc_doc/blob/main/2.验证社交网络人物账号.md)
 3. [新增任务 GET](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务GET.md)
 3. [新增任务 POST](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务POST.md)
-4. 修改任务 task_id
+4. [修改任务](https://github.com/wtgg/ghxc_doc/blob/main/4.修改任务.md)
 5. 新增执行 je_id
-6. 切换任务状态：正在运行/暂停
-7. 终止正在运行的爬虫
-8. 新增信息源
+6. [切换任务状态：正在运行/暂停](https://github.com/wtgg/ghxc_doc/blob/main/6.切换任务状态.md)
+7. [终止正在运行的爬虫](https://github.com/wtgg/ghxc_doc/blob/main/7.终止正在运行的爬虫.md)
+8. [新增信息源](https://github.com/wtgg/ghxc_doc/blob/main/8.新增信息源.md)
 
 
 ### kafka
