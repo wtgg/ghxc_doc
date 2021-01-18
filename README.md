@@ -82,9 +82,36 @@
 |参数名|必需|类型|说明|
 |:----    |:---|:----- |-----   |
 |act|  是  |string |数据操作，crud|
-|id|  是  |string |视频表id|
+|id|  是  |string |社交网络帖子表id|
 |je_id|  是  |string |任务执行表id|
 |task_id|  是  |string |任务表id|
 |spider_time|  否  |string |采集时间|
 |post_id|  否  |string |帖子在来源网站的id|
+|site_name|  是  |string |帖子来源网站|
+|post_url|  否  |string |帖子在来源网站的url|
+|post_datetime|  否  |string |帖子发布时间|
+|post_content|  否  |string |帖子内容|
+|comments_count|  否  |string |帖子评论数|
+|share_count|  否  |string |帖子被分享数|
+|is_transmitted|  否  |string |帖子是否是转发别人的|
+|like_count|  否  |string |点赞数|
+|imgs|  否  |string |图片|
+|video_url|  否  |string |包含的视频|
 
+
+5. 社交网络帖子评论，topic:`social_network_post_comments`
+
+|参数名|必需|类型|说明|
+|:----    |:---|:----- |-----   |
+|act|  是  |string |数据操作，crud|
+|id|  是  |string |社交网络帖子评论表id|
+|je_id|  是  |string |任务执行表id|
+|task_id|  是  |string |任务表id|
+|spider_time|  否  |string |采集时间|
+|post_id|  否  |string |帖子在来源网站的id|
+|site_name|  是  |string |帖子来源网站|
+|at_name|  否  |string |评论者@账号名称|
+|user_name|  否  |string |评论者昵称|
+|comment_id|  否  |string |评论id|
+|comment_time|  否  |string |评论发布的时间|
+|content_text|  否  |string |帖子评论内容|
