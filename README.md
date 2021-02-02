@@ -2,17 +2,19 @@
 1. [登录获取token](https://github.com/wtgg/ghxc_doc/blob/main/1.登录获取token.md)
 2. [~~验证社交网络人物账号~~](https://github.com/wtgg/ghxc_doc/blob/main/2.验证社交网络人物账号.md)
 3. [新增任务 GET](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务GET.md)
-3. [新增任务 POST](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务POST.md)
-4. [修改任务](https://github.com/wtgg/ghxc_doc/blob/main/4.修改任务.md)
-5. ~~新增执行 je_id~~
-6. [切换任务状态：正在运行/暂停](https://github.com/wtgg/ghxc_doc/blob/main/6.切换任务状态.md)
-7. [终止正在运行的爬虫](https://github.com/wtgg/ghxc_doc/blob/main/7.终止正在运行的爬虫.md)
-8. [新增信息源](https://github.com/wtgg/ghxc_doc/blob/main/8.新增信息源.md)
-9. 数据示例及说明
->
-    [1.任务信息](#任务信息)
-    [2.任务执行信息](#任务执行信息)
-    [3.视频信息](#视频信息)
+4. [新增任务 POST](https://github.com/wtgg/ghxc_doc/blob/main/3.新增任务POST.md)
+5. [修改任务](https://github.com/wtgg/ghxc_doc/blob/main/4.修改任务.md)
+6. ~~新增执行 je_id~~
+7. [切换任务状态：正在运行/暂停](https://github.com/wtgg/ghxc_doc/blob/main/6.切换任务状态.md)
+8. [终止正在运行的爬虫](https://github.com/wtgg/ghxc_doc/blob/main/7.终止正在运行的爬虫.md)
+9. [新增信息源](https://github.com/wtgg/ghxc_doc/blob/main/8.新增信息源.md)
+10. 数据示例及说明
+
+    [10.1.任务信息](#任务信息)
+    
+    [10.2.任务执行信息](#任务执行信息)
+    
+    [10.3.视频信息](#视频信息)
 
 
 ### RabbitMQ
