@@ -46,17 +46,17 @@
     "end_date": "2222-02-02",  // 当日期为2222-02-02时表示结束时间无限久远
     "how_often": "隔天采集",
     "sleep_days": "1", // 间隔天数
-    "frequency": "",
+    "frequency": "",  // 爬虫运行频次，一天运行几次
     "excute_hours": "[\"不指定\"]",  // 可设死
-    "resolution": "480P",
+    "resolution": "480P", //下拉菜单，参考采集系统
     "else_prefer": "最高分辨率",
     "video_all_info": "[\"5-10\"]",
     "info_except_video": "[\"<5\", \">10\"]",
     "upload_time_type": "任务运行周期内最新",
     "upload_time_start_date": "2021-02-02",
     "upload_time_end_date": "2222-02-02",
-    "run_type": "长期",
-    "enabled": "0",  // 任务状态 -1是已暂停 0是正在运行 1是已完成
+    "run_type": "长期",  // 任务运行的类型共有3个可能的值['设定区间','运行一次','长期']
+    "enabled": "0",  // 任务状态,共有3个可能的值 -1是已暂停 0是正在运行 1是已完成
     "pri": "常规",
     "is_deleted": "0",  // 本条数据是否被隐藏
     "finish_reason": "",
