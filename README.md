@@ -56,7 +56,7 @@
     "upload_time_start_date": "2021-02-02",
     "upload_time_end_date": "2222-02-02",
     "run_type": "长期",
-    "enabled": "0",
+    "enabled": "0",  // 任务状态 -1是已暂停 0是正在运行 1是已完成
     "pri": "常规",
     "is_deleted": "0",  // 本条数据是否被隐藏
     "finish_reason": "",
