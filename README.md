@@ -18,6 +18,7 @@
     
     [10.4 视频下载队列](#视频下载队列)
 11. [删除任务](https://github.com/wtgg/ghxc_doc/blob/main/11.删除任务.md)
+12. [删除爬虫视频](https://github.com/wtgg/ghxc_doc/blob/main/12.删除爬虫视频.md)
 
 ### RabbitMQ
 #### 任务信息
