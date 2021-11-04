@@ -17,7 +17,7 @@
     [10.3 视频信息](#视频信息)
     
     [10.4 视频下载队列](#视频下载队列)
-
+11. [删除任务](https://github.com/wtgg/ghxc_doc/blob/main/11.删除任务.md)
 
 ### RabbitMQ
 #### 任务信息
